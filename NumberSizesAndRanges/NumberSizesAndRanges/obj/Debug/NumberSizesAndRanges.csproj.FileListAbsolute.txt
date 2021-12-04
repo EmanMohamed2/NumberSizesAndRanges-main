@@ -1,0 +1,7 @@
+C:\Users\eman mohamed\source\repos\NumberSizesAndRanges\NumberSizesAndRanges\bin\Debug\NumberSizesAndRanges.exe.config
+C:\Users\eman mohamed\source\repos\NumberSizesAndRanges\NumberSizesAndRanges\bin\Debug\NumberSizesAndRanges.exe
+C:\Users\eman mohamed\source\repos\NumberSizesAndRanges\NumberSizesAndRanges\bin\Debug\NumberSizesAndRanges.pdb
+C:\Users\eman mohamed\source\repos\NumberSizesAndRanges\NumberSizesAndRanges\obj\Debug\NumberSizesAndRanges.csproj.AssemblyReference.cache
+C:\Users\eman mohamed\source\repos\NumberSizesAndRanges\NumberSizesAndRanges\obj\Debug\NumberSizesAndRanges.csproj.CoreCompileInputs.cache
+C:\Users\eman mohamed\source\repos\NumberSizesAndRanges\NumberSizesAndRanges\obj\Debug\NumberSizesAndRanges.exe
+C:\Users\eman mohamed\source\repos\NumberSizesAndRanges\NumberSizesAndRanges\obj\Debug\NumberSizesAndRanges.pdb
